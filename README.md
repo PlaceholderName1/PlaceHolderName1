@@ -1,5 +1,5 @@
 <div class="readmetext">
-<b align="center"><marquee bgcolor="black" align="center">Привет, я умею делать игры и умею делать монтаж, учусь C#.</marquee></b>
+<b><font align="center" size="15"><marquee bgcolor="black" align="center">Привет, я умею делать игры и умею делать монтаж, учусь C#.</marquee></font></b>
 </div>
 
 # Я использую:
